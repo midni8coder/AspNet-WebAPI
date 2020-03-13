@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isMART.API", "isMART.API.csproj", "{C80BF26A-5FC6-4257-AD9D-E78ABAB4E26A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C80BF26A-5FC6-4257-AD9D-E78ABAB4E26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80BF26A-5FC6-4257-AD9D-E78ABAB4E26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80BF26A-5FC6-4257-AD9D-E78ABAB4E26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80BF26A-5FC6-4257-AD9D-E78ABAB4E26A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74590398-E29B-41C0-B015-99FF2128A843}
+	EndGlobalSection
+EndGlobal
